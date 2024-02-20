@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.sandhyadevops.online # submit your host
+REDIS_HOST: redis.sandhyadevops.online
+MYSQL_HOST: mysql.sandhyadevops.online
+RABBITMQ_HOST: rabbitmq.sandhyadevops.online
+CATALOGUE_HOST: catalogue.sandhyadevops.online
+USER_HOST: user.sandhyadevops.online
+CART_HOST: cart.sandhyadevops.online
+SHIPPING_HOST: shipping.sandhyadevops.online
+PAYMENT_HOST: payment.sandhyadevops.online
+DISPATCH_HOST: dispatch.sandhyadevops.online
